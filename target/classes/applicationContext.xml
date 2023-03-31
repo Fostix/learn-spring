@@ -12,6 +12,4 @@
         <constructor-arg value="Neil"/>
     </bean>
 
-
-
 </beans>
